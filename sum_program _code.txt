@@ -1,3 +1,4 @@
-write a program of sum of two numbers
+write a program of sum of 
 input function, take two numbers from users
 add branch of numbers
+delete last two strings of first line
